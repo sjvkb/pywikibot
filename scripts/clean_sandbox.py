@@ -137,7 +137,13 @@ content = {
     'fi': '{{subst:Hiekka}}',
     'fr': '{{subst:Préchargement pour Bac à sable}}',
     'he': '{{ארגז חול}}\n<!-- נא לערוך מתחת לשורה זו בלבד, תודה. -->',
-    'hi': '{{User sandbox}}\n<!-- कृप्या इस लाइन के नीचे सम्पादन करे। -->',
+    'hi': '{{Please leave this line alone (sandbox heading)}}<!--'
+          '\n*               Welcome to the sandbox!              *'
+          '\n*            Please leave this part alone            *'
+          '\n*           The page is cleared regularly            *'
+          '\n*     Feel free to try your editing skills below     *'
+          '\n*      अपने परीक्षण संपादन इस लाइन के नीचे करें      *'
+          '\n■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■-->',
     'id': '{{Bakpasir}}\n<!-- Uji coba dilakukan di baris di bawah ini -->',
     'it': '{{sandbox}}'
           '<!-- Scrivi SOTTO questa riga senza cancellarla. Grazie. -->',
